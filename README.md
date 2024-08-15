@@ -8,5 +8,5 @@ Desafio - Explorando ações desencadeadas - <a href="https://github.com/NizaoSi
 Desafio - Modelo de Star Schema - <a href="https://github.com/NizaoSilva/power_bi_analyst/blob/NizaoSilva/M%C3%B3dulo%204/Desafios%20de%20Projeto/Desafio.png">Link</a><br>
 Desafio - Modelo de Star Schema com DAX - <a href="https://github.com/NizaoSilva/power_bi_analyst/blob/NizaoSilva/M%C3%B3dulo%204/Desafios%20de%20Projeto/Desafio2.png">Link</a><br>
 Desafio - Gráfico Resumo - <a href="https://github.com/NizaoSilva/power_bi_analyst/blob/NizaoSilva/M%C3%B3dulo%205/Desafio%201%20-%20Experi%C3%AAncia%20do%20usu%C3%A1rio/desafio5.pdf">Link</a><br>
-Resultado final:<br>
+<a href="https://github.com/NizaoSilva/power_bi_analyst/tree/NizaoSilva/M%C3%B3dulo%205/Desafio%202%20-%20Relat%C3%B3rio%20com%20Data%20Analytics">Resultado final</a>:<br>
 <img src="https://github.com/NizaoSilva/power_bi_analyst/blob/NizaoSilva/M%C3%B3dulo%205/Desafio%202%20-%20Relat%C3%B3rio%20com%20Data%20Analytics/desafio6.png" alt="Dashboard" title="Resultado final">
